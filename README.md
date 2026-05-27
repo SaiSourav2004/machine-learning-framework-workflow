@@ -54,18 +54,18 @@ Monitoring & Maintenance
 
 ## 📚 Topics Covered
 
-✔️ Problem Statement & Target Variable  
-✔️ Different Types of Data  
-✔️ Data Preprocessing  
-✔️ Feature Engineering & Feature Extraction  
-✔️ Machine Learning Algorithms  
-✔️ Train-Test Split  
-✔️ Model Building  
-✔️ Model Evaluation  
-✔️ Model Deployment  
-✔️ Monitoring & Maintenance  
-✔️ Real-World Applications  
-✔️ Understanding the ML Lifecycle
+- Problem Statement & Target Variable  
+- Different Types of Data  
+- Data Preprocessing  
+- Feature Engineering & Feature Extraction  
+- Machine Learning Algorithms  
+- Train-Test Split  
+- Model Building  
+- Model Evaluation  
+- Model Deployment  
+- Monitoring & Maintenance  
+- Real-World Applications  
+- Understanding the ML Lifecycle
 
 ---
 
