@@ -5,10 +5,12 @@
 ### A Beginner-Friendly Guide to Understanding the Machine Learning Workflow Step by Step
 
 <p align="center">
-  <img width="2752" height="1536" alt="Gemini_Generated_Image_nxgfognxgfognxgf" src="https://github.com/user-attachments/assets/2bb9f0a0-6950-4f1d-9b6e-0a75c2df3bc4" />
-
+  <img width="2752" height="1536" alt="Gemini_Generated_Image_nxgfognxgfognxgf" src="https://github.com/user-attachments/assets/2bb9f0a0-6950-4f1d-9b6e-0a75c2df3bc4" alt="Machine Learning Workflow" 
+       width="85%" />
+      
 </p>
 
+<br>
 ---
 
 ## 📌 About This Repository
