@@ -97,12 +97,6 @@ Machine Learning is already shaping many industries today:
 
 ---
 
-## 🖼️ Article Preview
-
-> Add your article cover image or ML workflow image here for better presentation.
-
----
-
 ## 📖 Read the Full Medium Article
 
 🔗 **Medium Article:**  
