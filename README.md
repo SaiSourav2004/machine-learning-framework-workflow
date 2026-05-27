@@ -23,12 +23,11 @@ So, I decided to break down the **complete Machine Learning framework and workfl
 This repository contains my Medium article written from a **student-to-student perspective**, with the goal of helping beginners understand the **Machine Learning lifecycle step by step** without feeling overwhelmed.
 
 ---
+<div align="center">
 
-## 🚀 Complete Machine Learning Workflow
+### 🚀 Machine Learning Workflow
 
-The Machine Learning lifecycle generally follows this process:
-
-```text
+<pre>
 Problem Statement
         ↓
 Different Types of Data
@@ -48,24 +47,27 @@ Model Evaluation
 Model Deployment
         ↓
 Monitoring & Maintenance
+</pre>
+
+</div>
 ```
 
 ---
 
 ## 📚 Topics Covered
 
-- Problem Statement & Target Variable  
-- Different Types of Data  
-- Data Preprocessing  
-- Feature Engineering & Feature Extraction  
-- Machine Learning Algorithms  
-- Train-Test Split  
-- Model Building  
-- Model Evaluation  
-- Model Deployment  
-- Monitoring & Maintenance  
-- Real-World Applications  
-- Understanding the ML Lifecycle
+✔️ Problem Statement & Target Variable  
+✔️ Different Types of Data  
+✔️ Data Preprocessing  
+✔️ Feature Engineering & Feature Extraction  
+✔️ Machine Learning Algorithms  
+✔️ Train-Test Split  
+✔️ Model Building  
+✔️ Model Evaluation  
+✔️ Model Deployment  
+✔️ Monitoring & Maintenance  
+✔️ Real-World Applications  
+✔️ Understanding the ML Lifecycle
 
 ---
 
