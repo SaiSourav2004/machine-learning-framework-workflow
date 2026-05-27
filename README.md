@@ -107,7 +107,7 @@ Machine Learning is already shaping many industries today:
 ## 🔗 Connect With Me
 
 ### GitHub Profile
-**[Visit My GitHub](PASTE_YOUR_GITHUB_PROFILE_LINK_HERE)**
+**[Visit My GitHub](https://github.com/SaiSourav2004)**
 
 ### LinkedIn Profile
 **[Connect on LinkedIn](https://www.linkedin.com/in/saisourav-panigrahi/)**
