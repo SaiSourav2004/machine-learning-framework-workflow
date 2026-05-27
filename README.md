@@ -114,10 +114,10 @@ Machine Learning is already shaping many industries today:
 **[Visit My GitHub](PASTE_YOUR_GITHUB_PROFILE_LINK_HERE)**
 
 ### LinkedIn Profile
-**[Connect on LinkedIn](PASTE_YOUR_LINKEDIN_PROFILE_LINK_HERE)**
+**[Connect on LinkedIn](https://www.linkedin.com/in/saisourav-panigrahi/)**
 
 ### LinkedIn Post
-**[View My LinkedIn Post](PASTE_YOUR_LINKEDIN_POST_LINK_HERE)**
+**[View My LinkedIn Post](https://www.linkedin.com/posts/saisourav-panigrahi_machinelearning-datascience-artificialintelligence-share-7465384065500622848-XSkR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGNwn4QBGwfbhY2KqFQgojIO099iwSyR5OQ)**
 
 ---
 
